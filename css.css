@@ -1,0 +1,48 @@
+	body{
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #ffffff;
+}
+
+td {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+.bs{font-size:14px; color:#ffffff; font-weight:bolder;}
+.bs a:link,.bs a:hover,.bs a:visited{font-size:14px; color:#ffffff; font-weight:bolder;}
+.bk{border:#CCCCCC solid 1px;line-height:28px; height:28px;}
+.img{border:none;}
+.black{color:#181818; font-size:12px;}
+.zong{font-size:12px; color:#994203; }
+.border{border-left:#c7d8ef solid 1px; border-right:#c7d8ef solid 1px;border-bottom:#c7d8ef solid 1px;}
+.text12 {
+	font-size:12px;
+	color:#666666;
+	font-family: "宋体";
+	text-decoration:none;
+}
+.Zred{color:#0686fd;font-size:14px; text-decoration:none;font-weight:bolder;}
+.more{color:#0b4181;font-size:6px; text-decoration:none;}
+.hei14{color:#515151; "宋体";
+	text-decoration:none;
+	font-size:14px;}
+	.input{border:#CCCCCC solid 1px;line-height:22px; height:22px;}
+	.sea{width:195px;border:none;line-height:35px; height:35px;background:url(images/sea_01.jpg) left; padding-left:14px;  color:#A7A6A6;}
+.text12p{font-size:12px; color:#666666; line-height:25px; text-indent:24px;}
