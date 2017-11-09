@@ -7,7 +7,7 @@ include("inc/func.php");
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>无标题文档</title>
+<title>或许这就是新闻网站吧</title>
 <link href="css.css" rel="stylesheet" type="text/css" />
 <style type="text/css">
 <!--
